@@ -18,4 +18,3 @@ Where:
 - `output` corresponds to pdf output path with its filename.
 
 **Make sure to clean formatting (especially in tags) before adding placeholders.**
-
